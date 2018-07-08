@@ -1,10 +1,9 @@
 #!/bin/bash
 
 echo "########################"
-echo "# Initial package update and upgrade"
+echo "# Install net-tools"
 echo "########################"
-sudo apt-get -y update
-sudo apt-get -y upgrade
+sudo apt-get -y install net-tools
 
 echo "########################"
 echo "# Install python-pip"

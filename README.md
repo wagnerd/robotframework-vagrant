@@ -1,6 +1,6 @@
-# 
+# Vagrant - Robot Framework
 
-Setup a virtualbox vm with ubuntu-18.04-desktop and RobotFramework preinstalled.
+Setup a virtualbox vm with ubuntu-18.04-desktop and [RobotFramework](http://robotframework.org/) preinstalled.
 
 ## Prerequisites
 * [VirtualBox](https://www.virtualbox.org/)
