@@ -1,4 +1,4 @@
-# Example 1
+# Example 1: Simple Browser Test
 To run this example cd to the example1 folder 
 ```
 cd /vagrantsync/examples/example1
