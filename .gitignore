@@ -2,6 +2,9 @@
 *.log
 logs/
 log.html
+*_log.html
 output.xml
 report.html
+*_report.html
 geckodriver.log
+*_stdout_log.txt
