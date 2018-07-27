@@ -8,3 +8,4 @@ report.html
 *_report.html
 geckodriver.log
 *_stdout_log.txt
+*.pyc

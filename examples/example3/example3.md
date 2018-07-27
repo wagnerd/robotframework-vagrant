@@ -1,5 +1,5 @@
 # Example 3: Merge Reports
-To run this example cd to the example1 folder 
+To run this example cd to the example3 folder 
 ```
 cd /vagrantsync/examples/example3
 ```
@@ -26,9 +26,9 @@ Example1 :: A test suite with a single test for Open Page.            | PASS |
 1 critical test, 1 passed, 0 failed
 1 test total, 1 passed, 0 failed
 ==============================================================================
-Output:  /vagrantsync/examples/example1/logs/output.xml
-Log:     /vagrantsync/examples/example1/logs/log.html
-Report:  /vagrantsync/examples/example1/logs/report.html
+Output:  /vagrantsync/examples/example3/logs/output.xml
+Log:     /vagrantsync/examples/example3/logs/log.html
+Report:  /vagrantsync/examples/example3/logs/report.html
 ```
 
 You can now open the __report.html__ and check the detailed results.

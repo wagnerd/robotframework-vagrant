@@ -25,9 +25,16 @@ vagrant up
 
 ### Example 1: Simple Browser Test
 See detailes about example1 [here](examples/example1/example1.md)
+The example will run a simple browser test example and create a report which you can inspect.
 
 ### Example 2: Run tests from VM to Host
 See detailes about example2 [here](examples/example2/example2.md)
+The example will run a simple test example from the VM to the host machine and create a report which you can inspect.
 
 ### Example 3: Merge Reports
 See detailes about example3 [here](examples/example3/example3.md)
+The example will run a simple browser test example and create a report which then will be merged with other reports.
+
+### Example 4: Import ExampleLibrary
+See detailes about example4 [here](examples/example4/example4.md)
+The example will create a simple custom ExampleLibrary in python and use it inside the robot framework test suite.
