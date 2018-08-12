@@ -45,9 +45,10 @@ vagrant@localhost:/vagrantsync/examples/example3$ python ./scripts/merge1.py
 ```
 This will create the report and log files inside the already existing logs folders.
 
-Currently there are the following example scripts:
-| Name      | Description              |
-|------     |------------------------- |
+Currently there are the following example scripts:  
+
+| Name | Description |
+|------ |------------------------- |
 | merge1.py | Create a report using one output.xml file using rebot |
 | merge2.py | Create a report using two output.xml file using rebot. Also redirect stdout to file. |
 | merge3.py | Create a report using a generated list of output files using rebot. Also redirect stdout to file. |
