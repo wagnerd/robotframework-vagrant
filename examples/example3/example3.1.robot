@@ -6,7 +6,7 @@ Documentation     A test suite with a single test for Open Page.
 Resource          resources/resource.robot
 
 *** Test Cases ***
-Open Page
+Open Page 3.1
     Open Browser To Welcome Page
     Welcome Page Should Be Open
     [Teardown]    Close Browser
