@@ -38,3 +38,7 @@ The example will run a simple browser test example and create a report which the
 ### Example 4: Import ExampleLibrary
 See detailes about example4 [here](examples/example4/example4.md)
 The example will create a simple custom ExampleLibrary in python and use it inside the robot framework test suite.
+
+### Example 5: Store Results in Database using DbBot
+See detailes about example5 [here](examples/example5/example5.md)
+The example will let you create some example test results and store them inside a database using [DbBot](https://github.com/robotframework/DbBot).

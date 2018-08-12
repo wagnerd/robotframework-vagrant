@@ -1,4 +1,4 @@
-# Example 5: Store in Database
+# Example 5: Store Results in Database using DbBot
 
 This example is based on the documentation for DbBot on [Github](https://github.com/robotframework/DbBot).
 
