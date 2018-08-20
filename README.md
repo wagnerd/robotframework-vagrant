@@ -14,11 +14,23 @@ The examples are based on the [official examples](http://robotframework.org/#exa
 * [VirtualBox](https://www.virtualbox.org/)
 * [Vagrant](https://www.vagrantup.com/)
 
-## Installation
-Provision and run the vagrant box inside this folder:
+## How to use
+Provision and run the vagrant box inside this folder with:
 
 ```
 vagrant up
+```
+
+You can stop the VM by running:
+
+```
+vagrant halt
+```
+
+Or remove/reset it completly with:
+
+```
+vagrant destroy
 ```
 
 ## Examples
