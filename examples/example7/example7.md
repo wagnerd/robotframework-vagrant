@@ -28,6 +28,10 @@ RUN python3 -m pip install robotframework
 
 This will use python:3 and install RobotFramework.
 
+> Hint: To change the python version inside the container, just adapt the tag in the first line. Let's say you want to use Python 3.6, just write  
+> ```FROM python:3.6```  
+> To see all available tags, go to [dockerhub python](https://hub.docker.com/_/python).
+
 Build the container:
 
 ```
