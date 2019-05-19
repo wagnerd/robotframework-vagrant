@@ -57,4 +57,8 @@ The example will let you create some example test results and store them inside 
 
 ### Example 6: Add variables from different sources
 See detailes about example6 [here](examples/example6/example6.md)
-So this example will show some posiibilities to load resource files in your test suites.
+So this example will show some posibilities to load resource files in your test suites.
+
+### Example 7: Run RobotFramework inside a docker container
+See detailes about example7 [here](examples/example7/example7.md)
+Now we are creating a simple docker container to run RobotFramework inside of it and use it to run our examples tests.
